@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## 
-### explanation
+### project explanation
 
 This project is actively developed.I am developing a rest api for backend using nodejs and express. You can see it in my repos but it has not been deployed yet.Instead, the dummy api is used to show.
 This project is a kind of social media. People can search for sports grounds by region. And can share post. It is aimed that people find themselves a sports partner.
