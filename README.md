@@ -24,7 +24,7 @@ This project is a kind of social media. People can search for sports grounds by 
 ##
 
 ## Screens
-![home page](https://github.com/halilyilmaaz/createx-flutter/blob/main/images/Screenshot_1622883778.png?raw=true)
+<img src = "https://github.com/halilyilmaaz/createx-flutter/blob/main/images/Screenshot_1622883778.png?raw=true" height="256">
 ![search page](https://github.com/halilyilmaaz/createx-flutter/blob/main/images/Screenshot_1622883785.png?raw=true)
 ![profil page](https://github.com/halilyilmaaz/createx-flutter/blob/main/images/Screenshot_1622883795.png?raw=true)
 ![drawer menu page](https://github.com/halilyilmaaz/createx-flutter/blob/main/images/Screenshot_1622883813.png?raw=true)
